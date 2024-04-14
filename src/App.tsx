@@ -10,7 +10,9 @@ function App() {
       <Stars count={3} />
       <Stars count={6} />
       <Stars count={1} />
-      <Stars count={true} />
+      <Stars count={4} />
+      <Stars count={true} />   
+      <Stars count={'gfdgfd'} />
     </>
   )
 }
